@@ -20,6 +20,6 @@ hosting platform ：Git 像是云盘一样，帮你保存代码项目的。
 这样就能分开合作了
 
 \
-设置拉到最最底下就可以删除和隐私了
+设置拉到最最底下就可以删除和隐私repo了
 
 https://jingyan.baidu.com/article/6525d4b115363ded7d2e94e9.html
