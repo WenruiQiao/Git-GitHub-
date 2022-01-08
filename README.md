@@ -1,25 +1,26 @@
-Git和GitHub使用教程
+Git and GitHub tutorial
 
 https://www.jianshu.com/p/296d22275cdd
 
-官网教程
+Official website tutorial
 
 https://docs.github.com/en/get-started/quickstart/hello-world
 
 \
 GitHub is a code hosting platform for version control and collaboration.
 
-hosting platform ：Git 像是云盘一样，帮你保存代码项目的。
-1. version control： 可以很多版本
-2. collaboration ；可以大家一块写上传，一块写
+hosting platform ：Git is like a cloud disk, it can help us to save the code and project
 
-通过 branch 可以建立一个分支，写自己的部分
+1. version control： can have many version
+2. collaboration:  We could all write it together, and merge out project.
 
-然后pull把自己的部分merge进主分支里
+We can use branch to work on our own part
 
-这样就能分开合作了
+and pull our part in to the main branch
+
+By this we can share out the work and cooperate with one another.
 
 \
-设置拉到最最底下就可以删除和隐私repo了
-
+At the bottom of the setting, we can find where to delete and private our repo
 https://jingyan.baidu.com/article/6525d4b115363ded7d2e94e9.html
+
